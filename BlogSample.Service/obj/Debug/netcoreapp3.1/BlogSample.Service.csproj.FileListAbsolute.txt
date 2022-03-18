@@ -1,0 +1,13 @@
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\bin\Debug\netcoreapp3.1\BlogSample.Service.deps.json
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\bin\Debug\netcoreapp3.1\BlogSample.Service.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\bin\Debug\netcoreapp3.1\BlogSample.Service.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\bin\Debug\netcoreapp3.1\BlogSample.Core.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\bin\Debug\netcoreapp3.1\BlogSample.Core.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.csproj.AssemblyReference.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.AssemblyInfoInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.AssemblyInfo.cs
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.csproj.CopyComplete
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Service\obj\Debug\netcoreapp3.1\BlogSample.Service.pdb

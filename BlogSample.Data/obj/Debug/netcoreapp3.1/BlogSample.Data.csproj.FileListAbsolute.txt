@@ -1,0 +1,16 @@
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Data.deps.json
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Data.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Data.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Core.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Core.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.csproj.AssemblyReference.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.AssemblyInfoInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.AssemblyInfo.cs
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.csproj.CopyComplete
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Data.runtimeconfig.json
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\bin\Debug\netcoreapp3.1\BlogSample.Data.runtimeconfig.dev.json
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Data\obj\Debug\netcoreapp3.1\BlogSample.Data.genruntimeconfig.cache

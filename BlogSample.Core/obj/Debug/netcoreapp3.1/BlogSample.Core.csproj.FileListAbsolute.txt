@@ -1,0 +1,10 @@
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\bin\Debug\netcoreapp3.1\BlogSample.Core.deps.json
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\bin\Debug\netcoreapp3.1\BlogSample.Core.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\bin\Debug\netcoreapp3.1\BlogSample.Core.pdb
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.csproj.AssemblyReference.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.AssemblyInfoInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.AssemblyInfo.cs
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.dll
+D:\Projects\Example\BlogSample\BlogSample\BlogSample.Core\obj\Debug\netcoreapp3.1\BlogSample.Core.pdb
